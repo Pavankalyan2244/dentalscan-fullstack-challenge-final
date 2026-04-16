@@ -59,7 +59,7 @@ npm run dev
 
 ## 🎥 Loom Video
 
-👉 Add your Loom link here after recording
+👉 https://www.loom.com/share/9eb8c32aa75140a7a565072e9b914933
 
 ---
 
